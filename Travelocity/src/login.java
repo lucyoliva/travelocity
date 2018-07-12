@@ -25,5 +25,9 @@ public class login {
 
 
 	}
+	public void display()
+	{
+		System.out.println("hello");
+	}
 
 }
