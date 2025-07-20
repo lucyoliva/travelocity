@@ -17,7 +17,7 @@ public class login {
 	driver=new ChromeDriver();
 	driver.get("https://www.facebook.com/");
 	driver.findElement(By.name("email")).sendKeys("minnujose86@yahoo.co.in");
-	driver.findElement(By.name("pass")).sendKeys("june15198");
+	driver.findElement(By.name("pass")).sendKeys("xxxxxx");
 	driver.findElement(By.name("pass")).sendKeys(Keys.ENTER);
 	
 
